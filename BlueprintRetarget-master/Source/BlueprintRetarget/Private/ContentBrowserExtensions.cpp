@@ -35,11 +35,9 @@
 #include <Engine/SCS_Node.h>
 #include <Engine/SimpleConstructionScript.h>
 
-// Define the log category
-DEFINE_LOG_CATEGORY_STATIC(LogBlueprintReparent, Log, All);
+#include "BlueprintRetarget.h"
 
 #define LOCTEXT_NAMESPACE "BlueprintRetarget"
-
 
 class FRetargetBlueprintFilter : public IClassViewerFilter
 {
