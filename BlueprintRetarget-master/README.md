@@ -1,3 +1,6 @@
+Original repo for UE4 
+https://github.com/PipeRift/BlueprintRetarget
+
 # Blueprint Retarget plugin
 An small tool that allows retargeting invalid blueprints when its parent class is missing on UE4
 
